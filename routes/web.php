@@ -31,5 +31,5 @@ Route::view('about', 'about');
 
 Route::view('fees', 'fees');
 
-Auth::routes(['register' => false]);
+// Auth::routes(['register' => false]);
 
